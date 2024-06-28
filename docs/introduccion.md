@@ -7,6 +7,7 @@ slug: /
 
 :::caution Precaución
 La información consignada en esta guía de consulta es susceptible a modificaciones y mejoras. 
+>**PRUEBA** :airplane:
 :::
 
 El presente sistema es una guía para dar a conocer el funcionamiento interno de cada uno de los procesos gestionados por [**BPMco**](https://www.bpmco.co/es/inicio/) para sus clientes y tiene como objetivo principal brindar un panorama general de la dinámica interna de los mismos.
